@@ -24,7 +24,7 @@ def calculate_fare():
     else:
         output_label.config(text="Invalid Destination")
 
-# Data
+
 fares = {
     "Bacoor": 40,
     "Kawit": 45,
